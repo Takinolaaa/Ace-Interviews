@@ -1,1 +1,1 @@
-# React + Vite
+# Web application that helps with acing interviews
